@@ -1,0 +1,201 @@
+Order_ID,Date,Region,Product,Sales,Customer_Gender
+1001,2024-01-01,Port Harcourt,Phone,38070,Female
+1002,2024-01-02,Ibadan,Phone,76958,Male
+1003,2024-01-03,Kano,Phone,102074,Female
+1004,2024-01-04,Ibadan,Tablet,30729,Male
+1005,2024-01-05,Ibadan,Tablet,250785,Female
+1006,2024-01-06,Abuja,Accessory,196089,Female
+1007,2024-01-07,Kano,Accessory,217392,Female
+1008,2024-01-08,Kano,Laptop,178823,Male
+1009,2024-01-09,Kano,Laptop,125864,Male
+1010,2024-01-10,Ibadan,Accessory,229141,Female
+1011,2024-01-11,Port Harcourt,Tablet,74748,Male
+1012,2024-01-12,Kano,Phone,25801,Female
+1013,2024-01-13,Ibadan,Accessory,170262,Male
+1014,2024-01-14,Abuja,Laptop,255362,Female
+1015,2024-01-15,Port Harcourt,Tablet,49592,Female
+1016,2024-01-16,Abuja,Accessory,292791,Male
+1017,2024-01-17,Port Harcourt,Accessory,159788,Female
+1018,2024-01-18,Ibadan,Tablet,239963,Male
+1019,2024-01-19,Lagos,Accessory,268710,Female
+1020,2024-01-20,Port Harcourt,Tablet,240984,Female
+1021,2024-01-21,Abuja,Phone,278067,Male
+1022,2024-01-22,Ibadan,Tablet,284512,Male
+1023,2024-01-23,Port Harcourt,Tablet,97575,Male
+1024,2024-01-24,Lagos,Tablet,288799,Female
+1025,2024-01-25,Lagos,Accessory,257549,Male
+1026,2024-01-26,Kano,Accessory,90031,Female
+1027,2024-01-27,Kano,Tablet,107922,Female
+1028,2024-01-28,Abuja,Accessory,144046,Male
+1029,2024-01-29,Port Harcourt,Laptop,52097,Male
+1030,2024-01-30,Port Harcourt,Laptop,162038,Female
+1031,2024-01-31,Kano,Accessory,144862,Female
+1032,2024-02-01,Port Harcourt,Accessory,250229,Male
+1033,2024-02-02,Port Harcourt,Tablet,138834,Male
+1034,2024-02-03,Lagos,Phone,113848,Male
+1035,2024-02-04,Kano,Accessory,72921,Male
+1036,2024-02-05,Ibadan,Laptop,200798,Male
+1037,2024-02-06,Kano,Tablet,146141,Female
+1038,2024-02-07,Ibadan,Accessory,201372,Female
+1039,2024-02-08,Lagos,Laptop,75609,Female
+1040,2024-02-09,Abuja,Laptop,247897,Female
+1041,2024-02-10,Port Harcourt,Phone,51024,Male
+1042,2024-02-11,Lagos,Tablet,90313,Male
+1043,2024-02-12,Port Harcourt,Tablet,204078,Male
+1044,2024-02-13,Abuja,Phone,133632,Female
+1045,2024-02-14,Abuja,Phone,271451,Female
+1046,2024-02-15,Lagos,Tablet,23051,Male
+1047,2024-02-16,Abuja,Tablet,199819,Male
+1048,2024-02-17,Ibadan,Accessory,107235,Female
+1049,2024-02-18,Abuja,Accessory,217484,Female
+1050,2024-02-19,Port Harcourt,Phone,209407,Male
+1051,2024-02-20,Port Harcourt,Accessory,231810,Male
+1052,2024-02-21,Port Harcourt,Laptop,223687,Female
+1053,2024-02-22,Port Harcourt,Accessory,93523,Male
+1054,2024-02-23,Ibadan,Accessory,256175,Male
+1055,2024-02-24,Kano,Laptop,114476,Male
+1056,2024-02-25,Lagos,Phone,253841,Female
+1057,2024-02-26,Port Harcourt,Laptop,299163,Female
+1058,2024-02-27,Abuja,Accessory,242866,Female
+1059,2024-02-28,Port Harcourt,Phone,106672,Female
+1060,2024-02-29,Abuja,Accessory,93847,Female
+1061,2024-03-01,Abuja,Laptop,230706,Female
+1062,2024-03-02,Port Harcourt,Laptop,48251,Female
+1063,2024-03-03,Ibadan,Accessory,123481,Male
+1064,2024-03-04,Abuja,Tablet,45945,Male
+1065,2024-03-05,Abuja,Tablet,52217,Male
+1066,2024-03-06,Port Harcourt,Laptop,28308,Male
+1067,2024-03-07,Abuja,Laptop,288093,Male
+1068,2024-03-08,Abuja,Tablet,203062,Male
+1069,2024-03-09,Port Harcourt,Tablet,240552,Male
+1070,2024-03-10,Port Harcourt,Accessory,120235,Female
+1071,2024-03-11,Lagos,Accessory,94740,Female
+1072,2024-03-12,Ibadan,Tablet,245913,Male
+1073,2024-03-13,Ibadan,Accessory,299040,Male
+1074,2024-03-14,Abuja,Accessory,197247,Female
+1075,2024-03-15,Ibadan,Phone,158877,Male
+1076,2024-03-16,Abuja,Accessory,25237,Male
+1077,2024-03-17,Lagos,Laptop,40056,Female
+1078,2024-03-18,Port Harcourt,Accessory,196615,Male
+1079,2024-03-19,Port Harcourt,Accessory,207628,Female
+1080,2024-03-20,Port Harcourt,Tablet,134548,Male
+1081,2024-03-21,Ibadan,Laptop,154415,Female
+1082,2024-03-22,Lagos,Accessory,49375,Female
+1083,2024-03-23,Ibadan,Accessory,160734,Female
+1084,2024-03-24,Ibadan,Phone,36964,Male
+1085,2024-03-25,Lagos,Accessory,133429,Female
+1086,2024-03-26,Lagos,Accessory,272764,Male
+1087,2024-03-27,Lagos,Phone,210710,Male
+1088,2024-03-28,Lagos,Tablet,236139,Male
+1089,2024-03-29,Port Harcourt,Accessory,87215,Male
+1090,2024-03-30,Kano,Phone,164356,Female
+1091,2024-03-31,Kano,Laptop,223861,Female
+1092,2024-04-01,Lagos,Tablet,29435,Male
+1093,2024-04-02,Kano,Laptop,195150,Male
+1094,2024-04-03,Kano,Laptop,71293,Female
+1095,2024-04-04,Lagos,Phone,98781,Male
+1096,2024-04-05,Kano,Accessory,211475,Female
+1097,2024-04-06,Ibadan,Phone,180196,Male
+1098,2024-04-07,Abuja,Phone,246507,Male
+1099,2024-04-08,Abuja,Phone,259833,Female
+1100,2024-04-09,Lagos,Phone,272377,Male
+1101,2024-04-10,Port Harcourt,Tablet,186319,Female
+1102,2024-04-11,Lagos,Accessory,141172,Male
+1103,2024-04-12,Port Harcourt,Laptop,79101,Male
+1104,2024-04-13,Abuja,Laptop,43049,Male
+1105,2024-04-14,Lagos,Accessory,230677,Female
+1106,2024-04-15,Ibadan,Laptop,88385,Male
+1107,2024-04-16,Kano,Accessory,146131,Male
+1108,2024-04-17,Port Harcourt,Laptop,216489,Male
+1109,2024-04-18,Kano,Phone,43289,Male
+1110,2024-04-19,Kano,Laptop,291967,Female
+1111,2024-04-20,Lagos,Accessory,211232,Female
+1112,2024-04-21,Kano,Accessory,29540,Male
+1113,2024-04-22,Ibadan,Accessory,36364,Female
+1114,2024-04-23,Kano,Accessory,47663,Male
+1115,2024-04-24,Lagos,Accessory,71991,Male
+1116,2024-04-25,Ibadan,Tablet,208751,Male
+1117,2024-04-26,Abuja,Tablet,182049,Female
+1118,2024-04-27,Kano,Laptop,114704,Female
+1119,2024-04-28,Lagos,Accessory,69115,Female
+1120,2024-04-29,Abuja,Laptop,239295,Female
+1121,2024-04-30,Abuja,Accessory,211962,Female
+1122,2024-05-01,Port Harcourt,Accessory,217459,Female
+1123,2024-05-02,Ibadan,Tablet,169143,Female
+1124,2024-05-03,Kano,Tablet,210347,Female
+1125,2024-05-04,Lagos,Phone,31938,Female
+1126,2024-05-05,Port Harcourt,Tablet,24000,Male
+1127,2024-05-06,Ibadan,Phone,221660,Female
+1128,2024-05-07,Port Harcourt,Phone,271492,Female
+1129,2024-05-08,Ibadan,Phone,58304,Female
+1130,2024-05-09,Ibadan,Phone,102986,Female
+1131,2024-05-10,Kano,Phone,171836,Female
+1132,2024-05-11,Ibadan,Laptop,128940,Female
+1133,2024-05-12,Port Harcourt,Tablet,285517,Female
+1134,2024-05-13,Ibadan,Phone,163233,Female
+1135,2024-05-14,Kano,Accessory,117532,Female
+1136,2024-05-15,Kano,Tablet,120386,Female
+1137,2024-05-16,Port Harcourt,Tablet,47350,Female
+1138,2024-05-17,Abuja,Phone,113008,Male
+1139,2024-05-18,Abuja,Laptop,45351,Male
+1140,2024-05-19,Ibadan,Phone,108668,Female
+1141,2024-05-20,Lagos,Laptop,134585,Female
+1142,2024-05-21,Ibadan,Accessory,227869,Male
+1143,2024-05-22,Port Harcourt,Tablet,85953,Female
+1144,2024-05-23,Port Harcourt,Accessory,23267,Male
+1145,2024-05-24,Port Harcourt,Laptop,102745,Male
+1146,2024-05-25,Port Harcourt,Laptop,177164,Male
+1147,2024-05-26,Port Harcourt,Accessory,31338,Male
+1148,2024-05-27,Kano,Laptop,151484,Male
+1149,2024-05-28,Abuja,Accessory,27543,Female
+1150,2024-05-29,Port Harcourt,Tablet,80692,Male
+1151,2024-05-30,Lagos,Accessory,240156,Female
+1152,2024-05-31,Lagos,Tablet,243992,Female
+1153,2024-06-01,Lagos,Accessory,58756,Male
+1154,2024-06-02,Lagos,Laptop,38888,Male
+1155,2024-06-03,Kano,Accessory,186807,Female
+1156,2024-06-04,Lagos,Laptop,134352,Male
+1157,2024-06-05,Port Harcourt,Accessory,105999,Male
+1158,2024-06-06,Ibadan,Accessory,37955,Female
+1159,2024-06-07,Lagos,Phone,90640,Female
+1160,2024-06-08,Kano,Laptop,216582,Male
+1161,2024-06-09,Kano,Phone,239798,Female
+1162,2024-06-10,Lagos,Laptop,81476,Male
+1163,2024-06-11,Ibadan,Phone,187280,Male
+1164,2024-06-12,Lagos,Tablet,171222,Male
+1165,2024-06-13,Kano,Accessory,91180,Female
+1166,2024-06-14,Abuja,Laptop,194358,Female
+1167,2024-06-15,Port Harcourt,Laptop,132856,Female
+1168,2024-06-16,Kano,Accessory,206141,Female
+1169,2024-06-17,Lagos,Laptop,130448,Female
+1170,2024-06-18,Port Harcourt,Laptop,34397,Male
+1171,2024-06-19,Lagos,Phone,198031,Male
+1172,2024-06-20,Lagos,Laptop,139180,Male
+1173,2024-06-21,Abuja,Tablet,86234,Male
+1174,2024-06-22,Port Harcourt,Tablet,59954,Female
+1175,2024-06-23,Port Harcourt,Accessory,198352,Male
+1176,2024-06-24,Abuja,Laptop,99459,Female
+1177,2024-06-25,Kano,Accessory,215004,Male
+1178,2024-06-26,Lagos,Tablet,220968,Female
+1179,2024-06-27,Ibadan,Laptop,79163,Female
+1180,2024-06-28,Lagos,Laptop,71934,Male
+1181,2024-06-29,Lagos,Accessory,215967,Male
+1182,2024-06-30,Kano,Tablet,25486,Male
+1183,2024-07-01,Lagos,Laptop,159407,Male
+1184,2024-07-02,Abuja,Accessory,146020,Female
+1185,2024-07-03,Abuja,Tablet,122795,Male
+1186,2024-07-04,Port Harcourt,Accessory,240184,Male
+1187,2024-07-05,Ibadan,Phone,162202,Female
+1188,2024-07-06,Lagos,Laptop,257027,Male
+1189,2024-07-07,Lagos,Phone,138324,Male
+1190,2024-07-08,Kano,Tablet,217775,Male
+1191,2024-07-09,Abuja,Phone,283206,Male
+1192,2024-07-10,Ibadan,Phone,104076,Male
+1193,2024-07-11,Port Harcourt,Tablet,109780,Female
+1194,2024-07-12,Abuja,Accessory,172617,Male
+1195,2024-07-13,Port Harcourt,Phone,41689,Male
+1196,2024-07-14,Kano,Accessory,293318,Male
+1197,2024-07-15,Kano,Phone,29348,Male
+1198,2024-07-16,Lagos,Accessory,58102,Male
+1199,2024-07-17,Ibadan,Tablet,94460,Female
+1200,2024-07-18,Port Harcourt,Phone,109930,Male
